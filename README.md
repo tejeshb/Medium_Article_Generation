@@ -1,6 +1,6 @@
 # Medium_Article_Generation
 
-Teach machine to learn to write article?\
+Teach machine to learn to write article?
 
 
 #### -- Project Status: [Completed]
